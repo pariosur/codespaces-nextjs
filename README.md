@@ -3,7 +3,7 @@
 
 To run this application:
 
-1. Keyboard shortcut to open in codespace: ,
+1. Keyboard shortcut to open in codespace: , (comma)
 
 2. 
 ```
