@@ -1,4 +1,4 @@
-# GitHub Codespaces ♥️ Next.js
+# ⚡︎ Code Snippets for Metal Blog ⚡︎
 
 
 To run this application:
